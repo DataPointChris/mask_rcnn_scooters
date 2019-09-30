@@ -26,17 +26,17 @@
 
 This is a HUGE list.  I literally got help from every corner of the internet.  This was a great learning project in all aspects.  Absolutely not possible without the help of the following sources:
 
-[matterport Mask-RCNN model pretrained on COCO dataset](https://github.com/matterport/Mask_RCNN)
-[Complete Guide to Creating COCO Datasets](https://www.udemy.com/course/creating-coco-datasets/)
-[Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
-[RectLabel](www.rectlabel.com)
-[waspinator Train a Mask R-CNN model on your own data](https://patrickwasp.com/train-a-mask-r-cnn-model-on-your-own-dataset/)
-[Training a Mask R-CNN Model Using the Nucleus Data](https://medium.com/@umdfirecoml/training-a-mask-r-cnn-model-using-the-nucleus-data-bcb5fdbc0181)
-[Instance segmentation: automatic nucleus detection.](https://towardsdatascience.com/instance-segmentation-automatic-nucleus-detection-a169b3a99477)
-[Data Augmentation for Deep Learning](https://towardsdatascience.com/data-augmentation-for-deep-learning-4fe21d1a4eb9)
-[How to run Object Detection and Segmentation on a Video Fast for Free](https://www.dlology.com/blog/how-to-run-object-detection-and-segmentation-on-video-fast-for-free/)
-[From raw images to real-time predictions with Deep Learning](https://towardsdatascience.com/from-raw-images-to-real-time-predictions-with-deep-learning-ddbbda1be0e4)
-[Mask R-CNN for object detection and segmentation [Train for a custom dataset]](https://stackoverflow.com/questions/49684468/mask-r-cnn-for-object-detection-and-segmentation-train-for-a-custom-dataset?noredirect=1&lq=1)
+[matterport Mask-RCNN model pretrained on COCO dataset](https://github.com/matterport/Mask_RCNN)  
+[Complete Guide to Creating COCO Datasets](https://www.udemy.com/course/creating-coco-datasets/)  
+[Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)  
+[RectLabel](www.rectlabel.com)  
+[waspinator Train a Mask R-CNN model on your own data](https://patrickwasp.com/train-a-mask-r-cnn-model-on-your-own-dataset/)  
+[Training a Mask R-CNN Model Using the Nucleus Data](https://medium.com/@umdfirecoml/training-a-mask-r-cnn-model-using-the-nucleus-data-bcb5fdbc0181)  
+[Instance segmentation: automatic nucleus detection.](https://towardsdatascience.com/instance-segmentation-automatic-nucleus-detection-a169b3a99477)  
+[Data Augmentation for Deep Learning](https://towardsdatascience.com/data-augmentation-for-deep-learning-4fe21d1a4eb9)  
+[How to run Object Detection and Segmentation on a Video Fast for Free](https://www.dlology.com/blog/how-to-run-object-detection-and-segmentation-on-video-fast-for-free/)  
+[From raw images to real-time predictions with Deep Learning](https://towardsdatascience.com/from-raw-images-to-real-time-predictions-with-deep-learning-ddbbda1be0e4)  
+[Mask R-CNN for object detection and segmentation [Train for a custom dataset]](https://stackoverflow.com/questions/49684468/mask-r-cnn-for-object-detection-and-segmentation-train-for-a-custom-dataset?noredirect=1&lq=1)  
 
 **I have tried my best to include all of the resources I used.  A learning point I found was definitely to create a bookmarks folder for each project and keep all of my sources stored in there for easy retrieval.**
 
